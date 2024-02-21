@@ -2,7 +2,7 @@
 
 
 
-his repository contains Python code that implements the Vasicek Interest Rate Model. The Vasicek model is a mathematical model describing the evolution of interest rates over time. The model is widely used in finance for interest rate modeling and derivative pricing.
+This repository contains Python code that implements the Vasicek Interest Rate Model. The Vasicek model is a mathematical model describing the evolution of interest rates over time. The model is widely used in finance for interest rate modeling and derivative pricing.
 
 Usage
 
