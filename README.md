@@ -1,10 +1,7 @@
-# Term-Structure-Yiled-curve-using-Vasicek-Model
+# Vasicek Interest Rate Model
 
+The Vasicek Interest Rate Model is a Python implementation of the Vasicek model, a mathematical framework used for modeling interest rate dynamics. This repository provides code to simulate the short-term interest rate process, estimate model parameters through Maximum Likelihood Estimation (MLE), and visualize the results. The model is widely used in finance for interest rate modeling and derivative pricing.
 
-
-This repository contains Python code that implements the Vasicek Interest Rate Model. The Vasicek model is a mathematical model describing the evolution of interest rates over time. The model is widely used in finance for interest rate modeling and derivative pricing.
-
-Usage
 
 **Model Parameters**
 The Vasicek model is defined by the following parameters:
